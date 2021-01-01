@@ -3,7 +3,7 @@ NodeMCU with motion, LDR, temperature and humidity sensors published to MQTT.
 
 ## Automation
 
-[Home Assistant](https://www.home-assistant.io/) automation to turn on the light when motion is detected, if the sun is down and there is low light.
+Works in conjunction with a [Home Assistant](https://www.home-assistant.io/) automation to turn on the light when motion is detected, if the sun is down and there is low light.
 
 ```yml
 - alias: Ensuite LED auto ON motion
