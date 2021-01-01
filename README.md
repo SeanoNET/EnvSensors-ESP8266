@@ -54,7 +54,7 @@ NodeMCU with motion, LDR, temperature and humidity sensors published to MQTT.
 
 ## Secrets
 
-Create a secrets.h file in the same directory as `app.ino` and define the following secrets.
+Create a `secrets.h` file in the same directory as `app.ino` and define the following secrets.
 
 ```c
 #define wifi_ssid "" // Your WIFI SSD
