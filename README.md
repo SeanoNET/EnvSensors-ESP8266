@@ -1,4 +1,4 @@
-# HA-Nightlight
+# EnvSensors-ESP8266
 NodeMCU with motion, LDR, temperature and humidity sensors published to MQTT. 
 
 ## Automation
